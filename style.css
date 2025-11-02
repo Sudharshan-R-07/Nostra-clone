@@ -58,21 +58,21 @@ body {
     top: 70px;
     position: absolute;
     color: #fffdfd;
-    left: 130px;
+    left: 23%;
     font-size: 60px;
 }
 
 .slide h3 {
-    bottom: 330px;
+    bottom: 65%;
     position: absolute;
     color: white;
-    left: 660px;
+    left: 43%;
 }
 
 .slide button {
-    bottom: 250px;
+    bottom: 55%;
     position: absolute;
-    left: 00px;
+    left: 47%;
     margin-top: 10px;
     padding: 5px;
     cursor: pointer;
@@ -463,7 +463,7 @@ display: grid;
     .slide h1{
         font-size:20px;
         position: absolute;
-        top: 20px; 
+        top: 20px; ;
 
     }
     .slide h3{
@@ -559,8 +559,5 @@ display: grid;
     }
 }
 
-@media screen and (max-width: 480px){
-    .offer{
-        width: 450px;
-    }
-}
+
+
