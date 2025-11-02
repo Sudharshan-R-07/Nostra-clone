@@ -476,7 +476,7 @@ display: grid;
     .slide button{
         font-size: small;
         position: absolute;
-        bottom: 60px;
+        bottom: 50px;
         left: 200px;
 
     }
