@@ -483,21 +483,26 @@ display: grid;
         position: absolute;
         bottom: 60px;
     }
+    .review{
+            width: 60%;
+    }
     .logo{
          display: grid; 
-        grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+        grid-template-columns:1fr 1fr 1fr 1fr;
         margin: 0;
          gap: 25px;
         text-align: center; 
         width: 5px;
         height: 60px;
         font-size: 20px;
+        padding: 0;
         margin-bottom: 150px;
 
     }
     .logo img{
         margin: 0;
         padding: 0;
+        width: 20px;
     } 
     .check{
         margin: 0;
@@ -548,4 +553,9 @@ display: grid;
     .main p{
         font-size: small;
     }
+    .product h3{
+        font-weight:normal;
+
+    }
 }
+
